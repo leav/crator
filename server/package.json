@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.1",
+    "moment": "^2.18.1",
+    "node-fetch": "^1.7.3",
+    "promise-retry": "^1.1.1",
+    "seedrandom": "^2.4.3",
+    "sqlite": "^2.8.0",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
